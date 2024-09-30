@@ -1,0 +1,39 @@
+:root {
+    --cor-principal: green;
+    --cor-secundaria: yellow;
+}
+body {
+    background-color:cornflowerblue;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: var(--cor-principal);
+}
+
+h2 {
+    color: var(--cor-secundaria);
+}
+
+p{
+    color:brown;
+}
+
+ul {
+    list-style-type: square;
+    color:mediumblue;
+}
+
+a {
+color: var(--cor-principal);
+text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color:
+}
